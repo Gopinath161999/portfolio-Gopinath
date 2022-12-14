@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Libre+Baskerville&family=Mochiy+Pop+One&display=swap');
+.skillcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 150px 0;
+}
+
+.skillcontainer__text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+
+}
+
+.skillcontainer__text>h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.skillcontainer__image{
+    flex: 0.4;
+    text-align: center;
+    margin: 100px;
+
+}
+
+.skillcontainer__image>img{
+    width: 600px;
+    border-radius: 3px;
+    object-fit: contain;
+
+}
+
+.skillcontainer__skillset>h5{
+    font-family: "Monstserrat",sans-serif;
+    margin-top: 15px;
+}
+.skillcontainer__slider1>hr{
+    margin-right: 70px;
+    margin-top: 10px;
+}
+.skillcontainer__slider2>hr{
+    margin-right: 110px;
+    margin-top: 10px;
+}
+.skillcontainer__slider3>hr{
+    margin-right: 150px;
+    margin-top: 10px;
+}
+.skillcontainer__slider4>hr{
+    margin-right: 170px;
+    margin-top: 10px;
+}
+.skillcontainer__slider5>hr{
+    margin-right: 200px;
+    margin-top: 10px;
+}
